@@ -4,10 +4,13 @@ This website uses the Bootstrap library. For full functionality, the Bootstrap J
 -> npm install gulp -g
 
 -> npm init -y
-> npm install gulp browser-sync gulp-sass --save-dev
-> npm install bootstrap jquery popper.js --save
-> npm install gulp-cli -g
+
+-> npm install gulp browser-sync gulp-sass --save-dev
+
+-> npm install bootstrap jquery popper.js --save
+
+-> npm install gulp-cli -g
 
 Instead of opening the index.html file, run the 'gulp' command.
 
-> gulp
+-> gulp

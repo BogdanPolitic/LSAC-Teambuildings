@@ -11,6 +11,6 @@ This website uses the Bootstrap library. For full functionality, the Bootstrap J
 
 -> npm install gulp-cli -g
 
-Instead of opening the index.html file, run the 'gulp' command.
+Instead of opening the index.html file, run the 'gulp' command, from the same directory.
 
 -> gulp
